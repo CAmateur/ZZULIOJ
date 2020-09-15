@@ -6,5 +6,5 @@ int main()
 	scanf("%lf", &Num);
 	printf("%.2lf", Num*Rate);
 
-
+return 0;
 }

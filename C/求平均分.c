@@ -5,5 +5,5 @@ int main()
 	scanf("%d%d%d", &math, &english, &computer);
 	printf("%.2f", ((float)(math + english + computer)) / 3);
 
-
+return 0;
 }
